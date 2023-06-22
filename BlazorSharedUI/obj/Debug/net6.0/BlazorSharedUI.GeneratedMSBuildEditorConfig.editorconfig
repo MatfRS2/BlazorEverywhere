@@ -8,33 +8,33 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = BlazorSharedUI
 build_property.RootNamespace = BlazorSharedUI
-build_property.ProjectDir = /Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/
+build_property.ProjectDir = C:\vlado\Courses\Matf\MatfRS2----BlazorEverywhere\BlazorSharedUI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI
+build_property.MSBuildProjectDirectory = C:\vlado\Courses\Matf\MatfRS2----BlazorEverywhere\BlazorSharedUI
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[C:/vlado/Courses/Matf/MatfRS2----BlazorEverywhere/BlazorSharedUI/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/vlado/Courses/Matf/MatfRS2----BlazorEverywhere/BlazorSharedUI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+[C:/vlado/Courses/Matf/MatfRS2----BlazorEverywhere/BlazorSharedUI/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/_Imports.razor]
+[C:/vlado/Courses/Matf/MatfRS2----BlazorEverywhere/BlazorSharedUI/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-4sajmrg8o0
+[C:/vlado/Courses/Matf/MatfRS2----BlazorEverywhere/BlazorSharedUI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-592lhre3ft
 
-[/Users/SamMBP/Projects/BlazorEverywhere/BlazorSharedUI/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-mj7hp2qt0z
+[C:/vlado/Courses/Matf/MatfRS2----BlazorEverywhere/BlazorSharedUI/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c4o4ehzv3n

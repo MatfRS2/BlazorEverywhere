@@ -11,17 +11,17 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorForWeb.Client
 build_property.RootNamespace = BlazorForWeb.Client
-build_property.ProjectDir = /Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Client/
+build_property.ProjectDir = C:\vlado\Courses\Matf\MatfRS2----BlazorEverywhere\BlazorForWeb\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Client
+build_property.MSBuildProjectDirectory = C:\vlado\Courses\Matf\MatfRS2----BlazorEverywhere\BlazorForWeb\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Client/App.razor]
+[C:/vlado/Courses/Matf/MatfRS2----BlazorEverywhere/BlazorForWeb/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Client/_Imports.razor]
+[C:/vlado/Courses/Matf/MatfRS2----BlazorEverywhere/BlazorForWeb/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

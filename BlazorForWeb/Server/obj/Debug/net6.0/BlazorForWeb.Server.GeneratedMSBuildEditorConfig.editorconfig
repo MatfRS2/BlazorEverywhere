@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorForWeb.Server
 build_property.RootNamespace = BlazorForWeb.Server
-build_property.ProjectDir = /Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Server/
+build_property.ProjectDir = C:\vlado\Courses\Matf\MatfRS2----BlazorEverywhere\BlazorForWeb\Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Server
+build_property.MSBuildProjectDirectory = C:\vlado\Courses\Matf\MatfRS2----BlazorEverywhere\BlazorForWeb\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/SamMBP/Projects/BlazorEverywhere/BlazorForWeb/Server/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[C:/vlado/Courses/Matf/MatfRS2----BlazorEverywhere/BlazorForWeb/Server/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
